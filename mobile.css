@@ -1,0 +1,19 @@
+@media screen and (min-width:414px) {
+    .about-rest-main-container {
+        width: 414px;
+        padding: 16px 15px 20px;
+    }
+
+    .about-rest-main-pre-title {
+        margin-bottom: 12px;
+    }
+
+    .about-rest-main-title {
+        display: block;
+        margin-bottom: 12px;
+    }
+
+    .about-rest-main-post-title {
+        margin-bottom: 28px;
+    }
+}

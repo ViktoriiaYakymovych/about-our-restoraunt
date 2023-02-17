@@ -1,0 +1,32 @@
+@media screen and (min-width:1280px) {
+    .about-rest-main-container {
+        width: 1140px;
+        padding: 120px 15px 50px;
+    }
+    .about-rest-main-img-first-wrap {
+        position: absolute;
+        top: -32px;
+        left: 640px;
+    }
+
+    /* SLIDER'S SETTING */
+
+    .swiper, .swiper-container {
+        top: -180px;
+        right: -130px;
+    }
+
+    .swiper-slide {
+        width: 254px;
+    }
+
+    .swiper-slide img {
+        width: 254px;
+        height: 254px;
+    }
+
+    .swiper-button-next,
+    .swiper-button-prev {
+        margin-top: 36px;
+    }
+}
