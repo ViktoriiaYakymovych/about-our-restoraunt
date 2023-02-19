@@ -11,22 +11,22 @@
 
     /* SLIDER'S SETTING */
 
-    .swiper, .swiper-container {
+    .about-rest-main-swiper, .swiper-container {
         top: -180px;
         right: -130px;
-    }
+    } 
 
-    .swiper-slide {
+    .about-rest-main-slide {
         width: 254px;
     }
 
-    .swiper-slide img {
+    .about-rest-main-slide img {
         width: 254px;
         height: 254px;
     }
 
-    .swiper-button-next,
-    .swiper-button-prev {
+    .about-rest-main-btn-next,
+    .about-rest-main-btn-prev {
         margin-top: 36px;
     }
 }

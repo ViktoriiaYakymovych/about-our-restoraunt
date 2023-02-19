@@ -1,19 +1,19 @@
-var swiper = new Swiper(".mySwiper", {
+var swiper = new Swiper(".vikmySwiper", {
     slidesPerView: "auto",
     centeredSlides: true,
     spaceBetween: 25,
     navigation: {
-        nextEl: '.swiper-button-next',
-        prevEl: '.swiper-button-prev',
+        nextEl: '.about-rest-main-btn-next',
+        prevEl: '.about-rest-main-btn-prev',
     },
     breakpoints: {
         414: {
         spaceBetween: 25
         },
-        960: {
+        1024: {
         spaceBetween: 40
         },
-        1140: {
+        1280: {
         spaceBetween: 40
         }
     }

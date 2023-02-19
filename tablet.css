@@ -41,31 +41,31 @@
 
     /* SLIDER'S SETTING */
 
-    .swiper {
+    .about-rest-main-swiper {
         width: 79%;
     }
 
-    .swiper, .swiper-container {
+    .about-rest-main-swiper, .swiper-container {
         top: -40px;
         right: -130px;
     }
 
-    .swiper-slide {
+    .about-rest-main-slide {
         width: 194px;
     }
 
-    .swiper-slide img {
+    .about-rest-main-slide img {
         overflow: hidden;
         width: 194px;
         height: 194px;
     }
 
-    .swiper-button-wrap {
+    .about-rest-main-btn-wrap {
         right: 32px;
     }
     
-    .swiper-button-next,
-    .swiper-button-prev {
+    .about-rest-main-btn-next,
+    .about-rest-main-btn-prev {
         margin-top: 32px;
     }
 }
